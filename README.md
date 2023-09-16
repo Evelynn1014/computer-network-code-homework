@@ -1,4 +1,3 @@
-# computer-network-code-homework
+# computer-network-lab
 BJTU RuipengGao computer network code
 
-并没有学懂，谨作纪念
